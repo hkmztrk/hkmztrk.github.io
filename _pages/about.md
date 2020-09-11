@@ -21,11 +21,10 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 ## Updates
 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;
------|-----
-**\[Aug 2020\]** | [The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University. 
-**\[Feb 2020\]** | **Publication:** Our review paper is published in Drug Discover Today. 
-**\[Nov 2019\]** | Joined DKFZ as a post-doctoral researcher. 
+**\[Aug 2020\]** 	[The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University! :tada:
+**\[Feb 2020\]** 	**Publication:** Our review article entitled [*Exploring chemical space using natural language processing methodologies for drug discovery*](https://www.sciencedirect.com/science/article/pii/S1359644620300465) is published in Drug Discover Today. 
+**\[Dec 2019\]** 	 Joined DKFZ as a post-doctoral researcher. 
+**\[Nov 2019\]** 	 Defended my PhD! :mortar_board:
 
 
 
