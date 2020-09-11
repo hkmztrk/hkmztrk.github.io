@@ -2,16 +2,11 @@
 main:
   - title: "Publications"
     url: /publications/
- 
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
+    
+  - title: "CV"
+    url:  /files/CV.pdf
+
   - title: "GLORIA"
     url: /year-archive/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
