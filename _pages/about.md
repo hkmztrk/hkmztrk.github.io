@@ -1,50 +1,123 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
-excerpt: "About me"
+title: ""
+excerpt: "summary"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+## Bio 
+Hakime Öztürk is currently a post-doctoral researcher in [Computational Genomics and System Genetics group](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/), which is led by **Dr. Oliver Stegle**, in 
+[German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html).  
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+Her research interests include Bioinformatics, Information Retrieval and Machine Learning. 
+Hakime was previously a member of [AILAB](http://ailab.cmpe.boun.edu.tr/), [TABILAB](http://tabilab.cmpe.boun.edu.tr/), and [OzkirimliLab](http://www.che.boun.edu.tr/che_faculty/elif/main/work/index.html) in Boğaziçi University. 
+She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istanbul/) events.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Employment
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
 
-**Markdown generator**
+<img align="left" width="120" height="120" src="../images/dkfz.png">
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+   [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
+   **Post-doctoral researcher**    2019- present<br/>
+   Advisor: [Dr. Oliver Stegle](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/)<br/>
+   <br/>
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+   [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
+   **Teaching Assistant**    2017- 2019<br/>
+   Department of Computer Engineering  
+   Courses: CMPE150 and CMPE140
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+ <br/>
+
+
+
+
+## Education
+
+
+
+<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
+
+   [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
+   **Ph.D. in Computer Engineering**    2014- 2019<br/>
+   **M.S. in Computer Engineering**     2012- 2014<br/>
+   Advisor: [Prof. Arzucan Ozgur](https://www.cmpe.boun.edu.tr/~ozgur/)<br/>
+   Co-advisor: [Prof. Elif Ozkirimli](http://ozkirimli.che.boun.edu.tr/)
+   <br/>
+   <br/>
+
+<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/tr/1/1e/Deu_logo.png">
+
+   [Dokuz Eylul University](http://www.deu.edu.tr/), Izmir, Turkey<br/>
+   **B.S. in Computer Engineering (with Honors)**    2008- 2012<br/>
+   Advisor: [Prof. Suleyman Sevinc](http://kisi.deu.edu.tr/suleyman.sevinc/)
+
+ <br/>
+
+
+## Published Papers
+
+1. 	[Exploring chemical space using natural language processing methodologies for drug discovery.](https://www.sciencedirect.com/science/article/pii/S1359644620300465)  <br>
+	*Öztürk, Hakime, Arzucan Özgür, Philippe Schwaller, Teodoro Laino and Elif Ozkirimli.*<br> 
+	Drug Discovery Today (2020) 
+
+2.   [DeepDTA: Deep Drug-Target Binding Affinity Prediction.](https://academic.oup.com/bioinformatics/article/34/17/i821/5093245)  <br>
+	*Öztürk, Hakime, Elif Ozkirimli and Arzucan Özgür .*<br> 
+	Bioinformatics (2018) | [www](https://cmpe.boun.edu.tr/~hakime.ozturk/deepdta.html)
+
+3.   [A novel methodology on distributed representations of proteins using their interacting ligands.](https://academic.oup.com/bioinformatics/article-abstract/34/13/i295/5045707)  <br>
+	*Öztürk, Hakime, Elif Ozkirimli, and Arzucan Özgür.*<br> 
+	 Bioinformatics (2018) |[www](https://cmpe.boun.edu.tr/~hakime.ozturk/smilesvec.html)
+
+4.   [Construction of miRNA-miRNA networks revealing the complexity of miRNA-mediated mechanisms in trastuzumab treated breast cancer cell lines.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5628841/) <br>
+	*Cilek, Emine Ezel, Hakime Ozturk, and Bala Gur Dedeoglu*<br>
+	 PloS one (2017) |<br>
+	
+5.   [BIOSSES: a semantic sentence similarity estimation system for the biomedical domain.](https://academic.oup.com/bioinformatics/article-abstract/33/14/i49/3953954) <br> 
+	*Soğancıoğlu, Gizem, Hakime Öztürk, and Arzucan Özgür.*<br>
+	 Bioinformatics (2017)  | [www](http://tabilab.cmpe.boun.edu.tr/BIOSSES/)
+     
+6.   [A comparative study of SMILES-based compound similarity functions for drug-target interaction prediction.](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-016-0977-x)<br> 
+	*Öztürk, Hakime, Elif Ozkirimli, and Arzucan Özgür.* <br>
+	 BMC bioinformatics (2016)  | 
+  
+7.   [Classification of Beta-lactamases and penicillin binding proteins using ligand-centric network models.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4331424/) <br> 
+	*Öztürk, Hakime, Elif Ozkirimli, and Arzucan Özgür.* <br>
+	PloS one (2015) |  [PLITOOL](http://tabilab.cmpe.boun.edu.tr:8080/PLITOOL/faces/index.xhtml)
+	 
+
+## Workshop Papers
+
+8.   [CNN-based Chemical-Protein Interactions Classification](http://www.biocreative.org/media/store/files/2018/BC6_track5_11.pdf) <br>
+	*Yüksel, Atakan,  Hakime Öztürk, Arzucan Özgür  and Elif Ozkirimli.*<br> 
+	Proceedings of the BioCreative VI Workshop, Bethesda, MD <br>
+
+
+## Preprints
+
+9.   [WideDTA: prediction of drug-target binding affinity](https://arxiv.org/abs/1902.04166) <br>
+	*Hakime Öztürk, Arzucan Özgür  and Elif Ozkirimli.*<br> 
+	arXiv Preprint (2019)
+
+10.   [A chemical language based approach for protein-ligand interaction prediction](https://arxiv.org/abs/1811.00761) <br>
+	*Hakime Öztürk, Arzucan Özgür  and Elif Ozkirimli.*<br> 
+	arXiv Preprint (2018)
+
+
+## Thesis
+
+   [Text-based Machine Learning Methodologies for Modelling Drug-Target Interactions.](https://www.cmpe.boun.edu.tr/~hakime.ozturk/articles/phdthesis.pdf) <br>
+	*PhD Thesis - 2019*<br> 
+
+
+   [Analysing Drug Targets using Ligand Similarity.](https://www.cmpe.boun.edu.tr/~hakime.ozturk/articles/msthesis.pdf) <br>
+	*MSc Thesis - 2014 .*<br> 
+
