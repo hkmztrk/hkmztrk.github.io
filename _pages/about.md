@@ -19,25 +19,43 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 
 ## Employment
 
+<table>
 
+<tr>
 
-<img align="left" width="120" height="120" src="../images/dkfz.png">
-
+<td>
+	<img align="left" width="120" height="120" src="../images/dkfz.png">
+</td>
+<td>
    [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
-   **Post-doctoral researcher**    2019- present<br/>
+   **Post-doctoral researcher**    
    Advisor: [Dr. Oliver Stegle](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/)<br/>
-   <br/>
+</td>
+<td>
+	  2019- present <br/>
+</td>
 
-<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
+	</tr>
 
+<tr>
+
+<td>
+	<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
+</td>
+<td>
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
-   **Teaching Assistant**    2017- 2019<br/>
+   **Teaching Assistant**    
    Department of Computer Engineering  
-   Courses: CMPE150 and CMPE140
+ </td>
+ <td>
+ 	2017- 2019
+ </td>
 
- <br/>
+</tr>
 
 
+
+</table>
 
 
 ## Education
