@@ -2,8 +2,7 @@
 layout: archive
 title: "GLORIA
 author_profile: true
-redirect_from: 
-  - /gloria/
+permalink: /gloria/
 ---
 
 <ul>
