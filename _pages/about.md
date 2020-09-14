@@ -35,14 +35,15 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 <img align="left" width="120" height="120" src="../images/dkfz.png">
 
    [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
-   **Post-doctoral researcher**    2019- present<br/>
+   **Post-doctoral researcher**,    2019- present<br/>
    <br/>
 
 <img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
 
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
-   **Teaching Assistant**    2017- 2019<br/>
    Department of Computer Engineering  
+   **Teaching Assistant**,    2017- 2019<br/>
+   
 
  <br/>
 
