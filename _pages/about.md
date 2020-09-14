@@ -21,7 +21,7 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 ## Updates
 
 <small>
-   
+
    * **\[Aug 2020\]** 	[The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University! 
    * **\[Feb 2020\]** 	**Publication:** Our review article entitled [*Exploring chemical space using natural language processing methodologies for drug discovery*](https://www.sciencedirect.com/science/article/pii/S1359644620300465) is published in Drug Discover Today. 
    * **\[Dec 2019\]** 	 Joined DKFZ as a post-doctoral researcher. 
@@ -36,7 +36,6 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 
    [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
    **Post-doctoral researcher**    2019- present<br/>
-   Advisor: [Dr. Oliver Stegle](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/)<br/>
    <br/>
 
 <img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
