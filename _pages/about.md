@@ -22,23 +22,23 @@ She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istan
 
 <small>
 
-   *  **\[Aug 2020\]** 	[The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University! 
-   *  **\[Feb 2020\]** 	**Publication:** Our review article entitled [*Exploring chemical space using natural language processing methodologies for drug discovery*](https://www.sciencedirect.com/science/article/pii/S1359644620300465) is published in Drug Discover Today. 
-   * **\[Dec 2019\]** 	 Joined DKFZ as a post-doctoral researcher. 
-   * **\[Nov 2019\]** 	 Defended my PhD! 
+:   **\[Aug 2020\]** 	[The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University! 
+:   **\[Feb 2020\]** 	**Publication:** Our review article entitled [*Exploring chemical space using natural language processing methodologies for drug discovery*](https://www.sciencedirect.com/science/article/pii/S1359644620300465) is published in Drug Discover Today. 
+:   **\[Dec 2019\]** 	 Joined DKFZ as a post-doctoral researcher. 
+:   **\[Nov 2019\]** 	 Defended my PhD! {: .notice}
 
 
 
 ## Employment
 
 
-<img align="left" width="120" height="120" src="../images/dkfz.png">
+<img align="left" width="110" height="110" src="../images/dkfz.png">
 
    [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
    **Post-doctoral researcher**,    2019- present<br/>
    <br/>
 
-<img align="left" width="120" height="120" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
+<img align="left" width="110" height="110" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
 
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
    Department of Computer Engineering  
