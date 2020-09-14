@@ -7,9 +7,7 @@ main:
   - title: "CV"
     url:  /files/CV.pdf
 
-  - title: "GLORIA"
-    url: /gloria/
 
-  - title: "Blog Posts"
+  - title: "GLORIA"
     url: /year-archive/
     
