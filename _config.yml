@@ -82,9 +82,9 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Research Scientist | Computational Biology "
+  bio              : "Research Scientist @ European Molecular Biology Laboratory (EMBL)"
   location         : "Heidelberg"
-  employer         : "European Molecular Biology Laboratory (EMBL)"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XN29UVEAAAAJ&hl=tr"
   email            : "hakime.oeztuerk@embl.de"
