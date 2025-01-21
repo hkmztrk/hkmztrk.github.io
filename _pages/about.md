@@ -20,7 +20,7 @@ I am also proud to have served as a mentor in [DjangoGirls](https://djangogirls.
 ## Employment
 
 
-<img align="left" width="110" height="120" src="../images/EMBL.png">
+<img align="left" width="110" height="140" src="../images/EMBL.png">
 
    [European Molecular Biology Laboratory (EMBL)](https://www.embl.org), Heidelberg, Germany <br/>
    [Statistical Genomics and Systems Genetics](https://www.embl.org/groups/stegle/) <br/>
