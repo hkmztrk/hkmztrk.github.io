@@ -9,40 +9,38 @@ redirect_from:
 ---
 
 ## Bio 
-Hakime Öztürk is currently a post-doctoral researcher in [Computational Genomics and System Genetics group](https://www.dkfz.de/en/bioinformatik-genomik-systemgenetik/), which is led by **Dr. Oliver Stegle**, in 
-[German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html).  
-
-Her research interests include Bioinformatics, Information Retrieval and Machine Learning. 
-Hakime was previously a member of [AILAB](http://ailab.cmpe.boun.edu.tr/), [TABILAB](http://tabilab.cmpe.boun.edu.tr/), and [OzkirimliLab](http://www.che.boun.edu.tr/che_faculty/elif/main/work/index.html) in Boğaziçi University. 
-She is also proud of being mentor in [DjangoGirls](https://djangogirls.org/istanbul/) events.
+I am a Research Scientist in the [Statistical Genomics and Systems Genetics](https://www.embl.org/groups/stegle/) group  at 
+[European Molecular Biology Laboratory (EMBL)](https://www.embl.org), where I currently focus on evaluating trustworthy machine learning methods for healthcare applications, as a part of [European Lighthouse on Safe and Secure AI](https://elsa-ai.eu). My research interests span computational biology, cheminformatics, and natural language processing (NLP). 
 
 
+Previously, I was a member of AILAB, [TABILAB](https://tabilab.cmpe.bogazici.edu.tr), and OzkirimliLab at Boğaziçi University. My PhD thesis received the [Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) in 2020. 
 
-## Updates
+I am also proud to have served as a mentor in [DjangoGirls](https://djangogirls.org/istanbul/) events and [MoveMINT](https://www.hs-mannheim.de/gleichstellung/movemint.html), supporting women in science. 
 
-<small>
-
-:   **\[Aug 2020\]** 	[The Best PhD Dissertation Award](https://www.cmpe.boun.edu.tr/news/hakime-öztürk-receives-bap-dissertation-award) by Bogazici University!
-:   **\[Feb 2020\]** 	Our review article entitled [*Exploring chemical space using natural language processing methodologies for drug discovery*](https://www.sciencedirect.com/science/article/pii/S1359644620300465) has been published in **Drug Discovery Today**. 
-:   **\[Dec 2019\]** 	 Joined DKFZ as a post-doctoral researcher. 
-:   **\[Nov 2019\]** 	 Defended my PhD! 
 
 
 
 ## Employment
 
 
+<img align="left" width="110" height="110" src="../images/EMBL.png">
+
+   [European Molecular Biology Laboratory (EMBL)](https://www.embl.org), Heidelberg, Germany <br/>
+   **Research Scientist**,    2024 - present<br/>
+   <br/>
+
+
 <img align="left" width="110" height="110" src="../images/dkfz.png">
 
    [German Cancer Research Center (DKFZ)](https://www.dkfz.de/en/index.html), Heidelberg, Germany <br/>
-   **Post-doctoral researcher**,    2019- present<br/>
+   **Post-doctoral researcher**,    2019 - 2024<br/>
    <br/>
 
 <img align="left" width="110" height="110" src="https://upload.wikimedia.org/wikipedia/en/7/76/Boğaziçi_University_logo.svg">
 
    [Bogazici University](http://boun.edu.tr/), Istanbul, Turkey<br/>
    Department of Computer Engineering  
-   **Teaching Assistant**,    2017- 2019<br/>
+   **Teaching Assistant**,    2017 - 2019<br/>
    
 
  <br/>
