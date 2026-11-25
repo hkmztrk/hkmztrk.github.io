@@ -1,0 +1,63 @@
+metadata:
+  last_updated: '2026-11-21'
+papers:
+  XN29UVEAAAAJ:2P1L_qKh6hAC:
+    citations: 42
+    title: Integration of variant annotations using deep set networks boosts rare variant association testing
+    year: '2024'
+  XN29UVEAAAAJ:4OULZ7Gr8RgC:
+    citations: 3
+    title: Community benchmarking of generative models for privacy-preserving synthetic bulk RNA-seq data generation
+    year: '2026'
+  XN29UVEAAAAJ:BqipwSGYUEgC:
+    citations: 1
+    title: Text-based Machine Learning Methodologies for Modelling Drug-Target Interactions
+    year: '2019'
+  XN29UVEAAAAJ:GnPB-g6toBAC:
+    citations: 214
+    title: Exploring chemical space using natural language processing methodologies for drug discovery
+    year: '2020'
+  XN29UVEAAAAJ:HDshCWvjkbEC:
+    citations: 2309
+    title: 'DeepDTA: Deep Drug-Target Binding Affinity Prediction'
+    year: '2018'
+  XN29UVEAAAAJ:HoB7MX3m0LUC:
+    citations: 0
+    title: 'Operationalising Trust: From Human Participation to Living Benchmarks in Healthcare AI'
+    year: '2026'
+  XN29UVEAAAAJ:IWHjjKOFINEC:
+    citations: 265
+    title: 'BIOSSES: a semantic sentence similarity estimation system for the biomedical domain'
+    year: '2017'
+  XN29UVEAAAAJ:NMxIlDl6LWMC:
+    citations: 364
+    title: 'WideDTA: prediction of drug-target binding affinity'
+    year: '2019'
+  XN29UVEAAAAJ:NaGl4SEjCO4C:
+    citations: 106
+    title: Crowdsourced mapping of unexplored target space of kinase inhibitors
+    year: '2021'
+  XN29UVEAAAAJ:bEWYMUwI8FkC:
+    citations: 58
+    title: A novel methodology on distributed representations of proteins using their interacting ligands
+    year: '2018'
+  XN29UVEAAAAJ:hC7cP41nSMkC:
+    citations: 40
+    title: Construction of miRNA-miRNA networks revealing the complexity of miRNA-mediated mechanisms in trastuzumab treated breast cancer cell lines
+    year: '2017'
+  XN29UVEAAAAJ:j3f4tGmQtD8C:
+    citations: 13
+    title: CNN-based Chemical-Protein Interactions Classification
+    year: '2017'
+  XN29UVEAAAAJ:ns9cj8rnVeAC:
+    citations: 47
+    title: "Chemboost: A chemical language based approach for protein\u2013ligand binding affinity prediction"
+    year: '2021'
+  XN29UVEAAAAJ:u-x6o8ySG0sC:
+    citations: 169
+    title: A comparative study of SMILES-based compound similarity functions for drug-target interaction prediction
+    year: '2016'
+  XN29UVEAAAAJ:u5HHmVD_uO8C:
+    citations: 122
+    title: Classification of beta-lactamases and penicillin binding proteins using ligand-centric network models
+    year: '2015'

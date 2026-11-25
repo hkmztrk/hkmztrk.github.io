@@ -1,0 +1,45 @@
+
+"Nat Genet":
+  url: https://www.nature.com/ng/
+  color: "#8c2d91"
+
+"Nat Commun":
+  url: https://www.nature.com/ncomms/
+  color: "#8c2d91"
+
+"Genome Biol":
+  url: https://genomebiology.biomedcentral.com/
+  color: "#8c2d91"
+
+"Bioinformatics":
+  url: https://academic.oup.com/bioinformatics
+  color: "#8c2d91"
+
+"PLOS ONE":
+  url: https://journals.plos.org/plosone/
+  color: "#8c2d91"
+
+"BMC Bioinformatics":
+  url: https://bmcbioinformatics.biomedcentral.com/
+  color: "#8c2d91"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#8c2d91"
+
+"Zenodo":
+  url: https://zenodo.org/
+  color: "#8c2d91"
+
+
+"Drug Discov Today":
+  url: https://www.sciencedirect.com/journal/drug-discovery-today
+  color: "#8c2d91"
+
+"Molecular Inf":
+  url: https://onlinelibrary.wiley.com/journal/18681751
+  color: "#8c2d91"
+
+
+"PhD Thesis":
+  color: "#008577"

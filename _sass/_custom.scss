@@ -1,0 +1,20 @@
+.social-share {
+  text-align: center;
+  margin: 3rem auto 2rem;
+  padding-top: 1rem;
+  max-width: 800px;
+
+  a {
+    color: var(--global-theme-color);
+    text-decoration: none;
+    white-space: nowrap;
+
+    &:hover {
+      text-decoration: underline;
+    }
+  }
+
+  p {
+    text-align: center;
+  }
+}
